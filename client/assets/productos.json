@@ -1,0 +1,28 @@
+{
+  "producto1": {
+    "id": "123af",
+    "name_prod": "camisa 1",
+    "Descripcion": {
+      "short": "una camisa",
+      "long": "descripcion larga"
+    },
+    "imgs": {
+      "little": "assets/img/1.jpg",
+      "medium": "assets/img/2.jpg",
+      "large": "assets/img/3.jpg"
+    }
+  },
+  "producto2": {
+    "id": "123af",
+    "name_prod": "camisa 1",
+    "Descripcion": {
+      "short": "una camisa",
+      "long": "descripcion larga"
+    },
+    "imgs": {
+      "little": "assets/img/1.jpg",
+      "medium": "assets/img/2.jpg",
+      "large": "assets/img/3.jpg"
+    }
+  }
+}
